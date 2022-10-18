@@ -38,10 +38,6 @@ I am a versatile geospatial data scientist and software engineer with several ye
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg"></a>
 
 <a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height ="42px"  src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"> </a>
-
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg"></a>
-
-<a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></a>
   
 <a href="https://www.autodesk.com/products/maya/overview" target="_blank"> <img align="left" alt="Maya" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/maya/maya-original.svg"></a>
 
