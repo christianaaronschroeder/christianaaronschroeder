@@ -6,7 +6,7 @@ I am a versatile geospatial data scientist and software engineer with several ye
 <br/>
 <br/>
 
-<a href="https://dribbble.com/shots/9022929-Data-science" target="_blank"><img align="right" alt="GIF" src="assets/data_science_animation.gif" width="460px"/>
+<a href="https://dribbble.com/shots/9022929-Data-science" target="_blank"><img align="right" alt="GIF" src="assets/data_science_animation.gif" width="360px"/>
   
 ### 🧐 Experience:
 - 💼 Geospatial Backend Software Engineer at [Zipline](https://www.flyzipline.com/)
