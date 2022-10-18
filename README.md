@@ -18,6 +18,7 @@ I am a versatile geospatial data scientist and software engineer with several ye
 <br/>
   <br/>
 <br/>
+  
 ### 🔨 Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></a>
