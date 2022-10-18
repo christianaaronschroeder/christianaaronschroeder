@@ -16,7 +16,7 @@ I am a versatile geospatial data scientist and software engineer with several ye
 - More on my LinkedIn <a href='https://www.linkedin.com/in/cschroed/'> <img alt="linkedin" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" height='18px'/></a>
 <br/>
 <br/>
-  <br/>
+<br/>
 <br/>
   
 ### 🔨 Languages and Tools:
@@ -26,8 +26,10 @@ I am a versatile geospatial data scientist and software engineer with several ye
 <a href="https://www.r-project.org/" target="_blank"><img align="left" alt="R" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg"></a>
   
 <a href="https://geopandas.org/" target="_blank"> <img align="left" alt="GeoPandas" height ="42px" src="https://geopandas.org/en/stable/_images/geopandas_icon.png"></a>
-
+  
 <a href="https://pandas.pydata.org/" target="_blank"> <img align="left" alt="Pandas" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg"></a>
+  
+<a href="https://gdal.org/" target="_blank"> <img align="left" alt="GDAL" height ="42px" src="https://github.com/christianaaronschroeder/christianaaronschroeder/blob/6a65835b4dd24ba188547eccc089bddfdfdaf539/assets/gdal-icon.svg"></a>
   
 <a href="https://jupyter.org/" target="_blank"><img align="left" alt="Jupyter" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg"></a>
 
@@ -40,7 +42,3 @@ I am a versatile geospatial data scientist and software engineer with several ye
 <a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height ="42px"  src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"> </a>
   
 <a href="https://www.autodesk.com/products/maya/overview" target="_blank"> <img align="left" alt="Maya" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/maya/maya-original.svg"></a>
-
-<a href="https://unity.com/" target="_blank"> <img align="left" alt="Unity" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg"></a>
-
-<a href="https://www.unrealengine.com/" target="_blank"> <img align="left" alt="Unreal Engine" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original.svg"></a>
