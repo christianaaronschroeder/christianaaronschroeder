@@ -14,9 +14,10 @@ I am a versatile geospatial data scientist and software engineer with several ye
 - 🎓 Bachelor's in Creative Technologies, [Virginia Tech](https://sova.vt.edu/programs/ct/)
 - 📝 Published in [The International Hydrographic Review](https://iho.int/uploads/user/pubs/ihreview_P1/IHR_November2020.pdf)
 - More on my LinkedIn <a href='https://www.linkedin.com/in/cschroed/'> <img alt="linkedin" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" height='18px'/></a>
-
-<br>
-
+<br/>
+<br/>
+  <br/>
+<br/>
 ### 🔨 Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></a>
