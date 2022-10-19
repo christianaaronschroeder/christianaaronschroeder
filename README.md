@@ -2,7 +2,7 @@
 
 <br/>
 
-I am a versatile data scientist and software engineer with several years' experience in the geospatial field. I have extensive experience in geospatial data science and geospatial software engineering, and I love to look for ways to optimize processes and employ geospatial data for the public good and environment.
+I am a versatile data scientist and software engineer with several years' experience in the geospatial field. I love to look for ways to optimize processes and employ geospatial data for the public good and environment.
 <br/>
 <br/>
 
