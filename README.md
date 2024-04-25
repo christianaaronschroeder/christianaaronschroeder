@@ -14,7 +14,7 @@ I have extensive experience in building, deploying, and maintaining geospatial d
 - 🎓 Master's in Data Science, [University of Virginia](https://datascience.virginia.edu/)
 - 🎓 Bachelor's in Creative Technologies, [Virginia Tech](https://sova.vt.edu/programs/ct/)
 - 📝 Published in:
-  -  The International Hydrographic Review, [Hydrography from Fisheries Surveys](https://iho.int/uploads/user/pubs/ihreview_P1/IHR_November2020.pdf)
+  -  The International Hydrographic Review, [Hydrography from Fisheries Surveys](https://ihr.iho.int/articles/hydrography-from-fisheries-surveys-filling-coverage-gaps-with-bathymetry-extracted-from-simrad-ek60-water-column-data/)
   - Science of The Total Environment, [Climate and Human Mortality in Virginia, 2005–2020](https://www.sciencedirect.com/science/article/abs/pii/S0048969723034484)
 - More on my LinkedIn <a href='https://www.linkedin.com/in/cschroed/'> <img alt="linkedin" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" height='18px'/></a>
 <br/>
