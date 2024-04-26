@@ -6,15 +6,15 @@ I am an experienced software engineer with a background in data science and seve
 <br/>
 <br/>
 
-<a href="https://dribbble.com/shots/9022929-Data-science" target="_blank"><img align="right" alt="GIF" src="assets/data_science_animation.gif" width="360px"/>
+<a href="https://dribbble.com/shots/9022929-Data-science" target="_blank"><img align="right" alt="GIF" src="assets/data_science_animation.gif" width="250px"/>
   
 ### 🧐 Experience:
-- 💼 Backend Software Engineer, Geospatial at [Zipline](https://www.flyzipline.com/)
+- 💼 Backend Software Engineer (Geospatial) at [Zipline](https://www.flyzipline.com/)
 - 🎓 Master's in Data Science, [University of Virginia](https://datascience.virginia.edu/)
 - 🎓 Bachelor's in Creative Technologies, [Virginia Tech](https://sova.vt.edu/future-students/creative-technologies/creative-technologies-bfa.html)
-- 📝 Published in:
-  -  The International Hydrographic Review, [Hydrography from Fisheries Surveys](https://ihr.iho.int/articles/hydrography-from-fisheries-surveys-filling-coverage-gaps-with-bathymetry-extracted-from-simrad-ek60-water-column-data/)
-  - Science of The Total Environment, [Climate and Human Mortality in Virginia, 2005–2020](https://www.sciencedirect.com/science/article/abs/pii/S0048969723034484)
+- 📝 Publications:
+  - “[Climate and Human Mortality in Virginia](https://www.sciencedirect.com/science/article/abs/pii/S0048969723034484),” Science of the Total Environment, Oct. 2023
+  - “[Hydrography from Fisheries Surveys](https://ihr.iho.int/articles/hydrography-from-fisheries-surveys-filling-coverage-gaps-with-bathymetry-extracted-from-simrad-ek60-water-column-data/),” The International Hydrographic Review, Nov. 2020 
 - <a href='https://www.linkedin.com/in/cschroed/'> <img alt="LinkedIn" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" height='18px'/></a> More on my [LinkedIn](https://www.linkedin.com/in/cschroed/)
 <br/>
 <br/>
