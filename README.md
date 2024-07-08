@@ -23,6 +23,8 @@ I am an experienced software engineer with a background in data science and seve
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></a>
 
+<a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"></a>
+
 <a href="https://aws.amazon.com/" target="_blank"> <img align="left" alt="Amazon Web Services" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg"></a>
 
 <a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height ="42px"  src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"> </a>
