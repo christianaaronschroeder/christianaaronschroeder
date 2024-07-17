@@ -7,6 +7,12 @@ I am an experienced software engineer with a background in data science and seve
 <br/>
 
 <a href="https://dribbble.com/shots/9022929-Data-science" target="_blank"><img align="right" alt="GIF" src="assets/data_science_animation.gif" width="250px"/>
+
+### 🔨 TLDR Core Competencies:
+- _Software Development_: Backend systems, algorithm optimization (Python, Rust, Go, R)
+- _DevOps and Cloud Computing_: AWS (CDK, Serverless), CI/CD (Bazel, GitHub Workflows), IaC (AWS CDK)
+- _Data Science & Engineering_: Predictive modeling, data pipelines, machine learning (Python, R)
+- _Geospatial Analysis_: Managing and analyzing geospatial data (GDAL, GeoPandas, ArcGIS, QGIS)
   
 ### 🧐 Experience:
 - 💼 Backend Software Engineer (Geospatial) at [Zipline](https://www.flyzipline.com/)
@@ -18,8 +24,6 @@ I am an experienced software engineer with a background in data science and seve
 - <a href='https://www.linkedin.com/in/cschroed/'> <img alt="LinkedIn" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" height='18px'/></a> More on my [LinkedIn](https://www.linkedin.com/in/cschroed/)
 <br/>
 <br/>
-  
-### 🔨 Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></a>
 
@@ -48,4 +52,42 @@ I am an experienced software engineer with a background in data science and seve
 <a href="https://www.tensorflow.org" target="_blank"><img align="left" alt="TensorFlow" height ="42px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original.svg"></a>
 
 <a href="https://geopandas.org/" target="_blank"> <img align="left" alt="GeoPandas" height ="42px" src="https://geopandas.org/en/stable/_images/geopandas_icon.png"></a>
-
+<br/>
+<br/>
+---
+### 🔨 Core Competencies:
+- **Software Development**
+    - _Backend Development_: Strong background in developing and optimizing backend systems and services
+    - _Algorithm Optimization_: My role at Zipline is in "Core Optimization" where I focus on improving algorithm performance through various methods of optimization
+    - _Languages_:
+        - Skilled: Python, Rust
+        - Competent: R, Bash, Starlark (Bazel)
+        - Knowledgeable: JavaScript, Go
+- **DevOps and Cloud Computing**
+    - Experienced with building and deploying scalable cloud-based services and data pipelines, and supporting CI/CD pipelines
+    - Extensive experience with AWS services including CDK, Serverless, Lambda, Step Functions, EKS, RDS, S3, and ECR
+    - Strong background in optimizing build systems with Bazel and Docker
+    - _CI/CD_: Skilled in setting up and managing continuous integration and deployment pipelines using tools like Bazel and GitHub Workflows
+    - _Infrastructure as Code (IaC)_: Knowledgeable in PaaS and IaC, specifically AWS CDK
+- **Data Science and Data Engineering**
+    - _Predictive Modeling_: Skilled in building predictive models and conducting statistical analyses
+    - _Data Pipelines_:
+        - Proficient in building and optimizing cloud-based data pipelines
+        - Expertise in cleansing, wrangling, visualization, modeling, and interpretation of data
+    - _Machine Learning_:
+        - Experienced with deep learning, neural networks, and data preprocessing
+        - A solid comprehension of AI concepts, algorithms, and frameworks
+    - _Tools_:
+        - Python: Pandas, PySpark, Dask, Numpy, Scikit-learn, SciPy, XGBoost, TensorFlow, PyTorch, Keras
+        - R: Dplyr, Caret
+        - Databases: PostgreSQL, NoSQL, MySQL, MongoDB
+- **Geospatial Data Analysis and Systems**
+    - Expert in geospatial analysis, with extensive experience in managing and analyzing geospatial data in data-heavy, cloud-based environments
+    - Designed and implemented scalable architectures for raster image processing and vectorization in cloud environments
+    - Implement algorithms for image processing, feature extraction, and vectorization
+    - _Tools_:
+        - Raster Data: GDAL / OGR, Satellite Imagery
+        - Python: GeoPandas, Rasterio, Xarray, OpenCV, Pillow, ArcPy
+        - GIS: ArcGIS, QGIS
+        - Data Management: PostgreSQL + PostGIS, HDF5, 
+        - Other: ArcGIS, QGIS, Google Earth Engine, Georeferencing
